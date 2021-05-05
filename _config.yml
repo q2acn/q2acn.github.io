@@ -12,10 +12,10 @@ highlighter: rouge
 # Menu layout
 nav:
   main:
-    - name: 安装
+    - name: 安装指南
       path: /install/
       sub: install
-    - name: 定制
+    - name: 主题开发
       path: /themes/
       sub: customize
     - name: 插件开发
@@ -24,10 +24,10 @@ nav:
     - name: 代码引用
       path: /code/external/
       sub: code
-    - name: 贡献
+    - name: 贡献社区
       path: /contribute/
       sub: contribute
-    - name: 扩展
+    - name: 扩展程序
       path: /addons/
       sub: addons
 
@@ -51,18 +51,16 @@ nav:
       url: http://demo.question2answer.org/
 
   install:
-    - name: 基础安装
+    - name: 安装
       path: /install/
-    - name: WordPress集成
-      path: /install/wordpress/
-    - name: 单点登录
-      path: /install/single-sign-on/
     - name: 升级
       path: /install/upgrade/
-    - name: 性能优化
-      path: /install/optimize/
     - name: 安全
       path: /install/security/
+    - name: 单点登录
+      path: /install/single-sign-on/
+    - name: WordPress集成
+      path: /install/wordpress/
     - name: .htaccess
       path: /install/htaccess/
 
