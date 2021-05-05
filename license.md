@@ -3,13 +3,13 @@ layout: page
 title: "Question2Answer - Versions"
 ---
 
-# Question2Answer is free and open source.
+# Question2Answer 完全开源并且免费
 
-Question2Answer is licensed under the [GNU General Public License version 2](http://www.gnu.org/licenses/gpl-2.0.html), or (at your option) any [later version](http://www.gnu.org/licenses/gpl.html) of the GPL.
+Question2Answer 遵循 [GNU General Public License version 2](http://www.gnu.org/licenses/gpl-2.0.html), 或 [later GPL version](http://www.gnu.org/licenses/gpl.html) 。
 
-Question2Answer has used open source code from [CKEditor](http://ckeditor.com/), [htmLawed](http://www.bioinformatics.org/phplabware/internal_utilities/htmLawed/), [jQuery](http://jquery.com/), [jxs](http://www.openjs.com/scripts/jx/), [PHPMailer](http://phpmailer.worxware.com/), [reCAPTCHA](http://www.google.com/recaptcha) and [Services_JSON](http://pear.php.net/package/Services_JSON/).
+Question2Answer 使用了如下开源代码 [CKEditor](http://ckeditor.com/), [htmLawed](http://www.bioinformatics.org/phplabware/internal_utilities/htmLawed/), [jQuery](http://jquery.com/), [jxs](http://www.openjs.com/scripts/jx/), [PHPMailer](http://phpmailer.worxware.com/), [reCAPTCHA](http://www.google.com/recaptcha) 和 [Services_JSON](http://pear.php.net/package/Services_JSON/).
 
-### <a name="terms"></a><a name="SEC3">TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION</a>
+### <a name="terms"></a><a name="SEC3">复制、分发、修改条款</a>
 
 <a name="section0"></a>
 

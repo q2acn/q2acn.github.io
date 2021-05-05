@@ -1,5 +1,5 @@
 # Site settings
-title: Question2Answer documentation
+title: Question2Answer 中文说明文档
 url: http://docs.question2answer.org
 baseurl: /
 permalink: pretty
@@ -12,103 +12,103 @@ highlighter: rouge
 # Menu layout
 nav:
   main:
-    - name: Install
+    - name: 安装
       path: /install/
-      sub: install
-    - name: Customize
+      sub: 安装
+    - name: 定制
       path: /themes/
-      sub: customize
-    - name: Plugins
+      sub: 定制
+    - name: 插件
       path: /plugins/
-      sub: plugins
-    - name: Code
+      sub: 插件
+    - name: 代码
       path: /code/external/
-      sub: code
-    - name: Contribute
+      sub: 代码
+    - name: 贡献
       path: /contribute/
-      sub: contribute
-    - name: Add-Ons
+      sub: 贡献
+    - name: 扩展
       path: /addons/
-      sub: addons
+      sub: 扩展
 
   second:
-    - name: Services
+    - name: 服务
       url: /services/
       class: main-nav-link-separate
-    - name: Sites
+    - name: 示例网站
       url: https://www.question2answer.org/sites.php
-    - name: Q&A
+    - name: Q&A社区
       url: https://www.question2answer.org/qa/
 
   footer:
-    - name: Contact devs
+    - name: 联系我们
       url: https://www.question2answer.org/feedback.php
-    - name: Version history
+    - name: 版本历史
       url: /install/versions/
-    - name: License details
+    - name: License
       url: https://www.question2answer.org/license.php
-    - name: Demo sandbox
+    - name: 演示沙箱
       url: http://demo.question2answer.org/
 
   install:
-    - name: Basic Install
+    - name: 基础安装
       path: /install/
     - name: WordPress
       path: /install/wordpress/
-    - name: Single Sign-On
+    - name: 单点登录
       path: /install/single-sign-on/
-    - name: Upgrading
+    - name: 升级
       path: /install/upgrade/
-    - name: Optimization
+    - name: 最小化
       path: /install/optimize/
-    - name: Security
+    - name: 安全
       path: /install/security/
     - name: .htaccess
       path: /install/htaccess/
 
   customize:
-    - name: Create a theme
+    - name: 创建主题
       path: /themes/
-    - name: Translate Q2A
+    - name: 国际化 Q2A
       path: /translate/
 
   plugins:
-    - name: Overview
+    - name: 总览
       path: /plugins/
-    - name: Modules
+    - name: 模块
       path: /plugins/modules/
-    - name: Layers
+    - name: 图层
       path: /plugins/layers/
-    - name: Overrides
+    - name: 重载
       path: /plugins/overrides/
-    - name: Plugin Tutorial
+    - name: 插件开发之旅
       path: /plugins/tutorial/
 
   code:
-    - name: External
+    - name: 扩展
       path: /code/external/
-    - name: Functions
+    - name: 函数
       path: /code/functions/
-    - name: App Structure
+    - name: App 结构
       path: /code/structure/
 
   contribute:
-    - name: Issues
+    - name: 问题
       path: /contribute/
-    - name: Coding Style
+    - name: 代码风格
       path: /contribute/coding-style/
-    - name: Unit tests
+    - name: 单元测试
       path: /contribute/unit-tests/
-    - name: Documentation
+    - name: 说明文档
       path: /contribute/docs/
 
   addons:
-    - name: Translations
+    - name: 翻译
       path: /addons/translations/
-    - name: Themes
+    - name: 主题
       path: /addons/themes/
-    - name: Plugins
+    - name: 插件
       path: /addons/plugins/
-    - name: Clients
+    - name: 客户端
       path: /addons/clients/
 
