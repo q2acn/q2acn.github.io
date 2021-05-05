@@ -1,6 +1,6 @@
 # Site settings
-title: Question2Answer 中文说明文档
-url: http://q2adoc.ostack.cn/
+title: Question2Answer documentation
+url: http://docs.question2answer.org
 baseurl: /
 permalink: pretty
 exclude: [vendor]
@@ -14,22 +14,22 @@ nav:
   main:
     - name: 安装
       path: /install/
-      sub: 安装
+      sub: install
     - name: 定制
       path: /themes/
-      sub: 定制
-    - name: 插件
+      sub: customize
+    - name: 插件开发
       path: /plugins/
-      sub: 插件
-    - name: 代码
+      sub: plugins
+    - name: 代码引用
       path: /code/external/
-      sub: 代码
+      sub: code
     - name: 贡献
       path: /contribute/
-      sub: 贡献
+      sub: contribute
     - name: 扩展
       path: /addons/
-      sub: 扩展
+      sub: addons
 
   second:
     - name: 服务支持
@@ -43,9 +43,9 @@ nav:
   footer:
     - name: 联系我们
       url: https://www.question2answer.org/feedback.php
-    - name: 版本历史
+    - name: 版本记录
       url: /install/versions/
-    - name: License
+    - name: License details
       url: https://www.question2answer.org/license.php
     - name: 演示沙箱
       url: http://demo.question2answer.org/
@@ -53,13 +53,13 @@ nav:
   install:
     - name: 基础安装
       path: /install/
-    - name: WordPress
+    - name: WordPress集成
       path: /install/wordpress/
     - name: 单点登录
       path: /install/single-sign-on/
     - name: 升级
       path: /install/upgrade/
-    - name: 最小化
+    - name: 性能优化
       path: /install/optimize/
     - name: 安全
       path: /install/security/
@@ -67,9 +67,9 @@ nav:
       path: /install/htaccess/
 
   customize:
-    - name: 创建主题
+    - name: 主题创建
       path: /themes/
-    - name: 国际化 Q2A
+    - name: Q2A国际化
       path: /translate/
 
   plugins:
@@ -77,19 +77,19 @@ nav:
       path: /plugins/
     - name: 模块
       path: /plugins/modules/
-    - name: 图层
+    - name: 页面
       path: /plugins/layers/
     - name: 重载
       path: /plugins/overrides/
-    - name: 插件开发之旅
+    - name: 插件开发
       path: /plugins/tutorial/
 
   code:
-    - name: 扩展
+    - name: 外部引用
       path: /code/external/
-    - name: 函数
+    - name: 功能
       path: /code/functions/
-    - name: App 结构
+    - name: App结构
       path: /code/structure/
 
   contribute:
