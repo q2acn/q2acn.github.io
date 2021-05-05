@@ -3,95 +3,98 @@ layout: default
 ---
 
 <h1 class="home-intro"><strong>Question2Answer</strong> (Q2A) 是一个基于PHP/MySQL的免费、开源的知识分享（问答）系统。
-<p>使用(Q2A)可以方便快捷的大家自己的问答网站，目前已经有超过40种语言 <a href="https://www.question2answer.org/sites.php">24,500+网站，使用Q2A程序来搭建自己的网站</a>.</h1>
+<p><a href="https://www.question2answer.org/question2answer-latest.zip">欢迎体验最新1.8.6版本</a>
+</h1>
 
-<div style="text-align:center">{{ content }}<div>
+<p>使用(Q2A)可以方便快捷的搭建自己的问答网站，目前已经有超过40种语言 <a href="https://www.question2answer.org/sites.php">24,500+网站</a>，使用Q2A程序来搭建自己的网站.
+
 
 <div class="showcase-cols">
 
-		{% capture answerText %}
-			<p>知识分享（问答）网站可帮助您的在线社区共享知识。有问题的人会得到他们需要的答案。通过评论，投票，通知，要点和排名来丰富社区。</p>
-		{% endcapture %}
-		{% include card-showcase.html icon="forum" title="什么是知识分享（问答）网站?" answer=answerText %}
+	{% capture answerText %}
+		<p>知识分享（问答）网站可帮助您的在线社区共享知识。有问题的人会得到他们需要的答案。通过评论，投票，通知，要点和排名来丰富社区。</p>
+	{% endcapture %}
+	{% include card-showcase.html icon="forum" title="什么是知识分享（问答）网站?" answer=answerText %}
 
-		{% capture answerText %}
-			<p>您的成员将享受Q＆A启用的互动，并且会更定期地访问您的网站。此外，许多网络搜索是一个问题，因此问答内容将吸引搜索引擎流量。</p>
-		{% endcapture %}
-		{% include card-showcase.html icon="people" title="为什么要在我的网站集成 Q&amp;A ?" answer=answerText %}
+	{% capture answerText %}
+		<p>您的成员将享受Q＆A启用的互动，并且会更定期地访问您的网站。此外，许多网络搜索是一个问题，因此问答内容将吸引搜索引擎流量。</p>
+	{% endcapture %}
+	{% include card-showcase.html icon="people" title="为什么要在我的网站集成 Q&amp;A ?" answer=answerText %}
 
-		{% capture answerText %}
-			<p><a href="https://www.question2answer.org/question2answer-latest.zip"><b>下载 Question2Answer</b></a>, 然后阅读 <a href="/install/">如何安装</a>.</p>
-			<p><a href="/install/versions/">最新的版本：1.8.5</a> 已经于July 15th, 2020发布。</p>
-			<p>Question2Answer是一款基于 <a href="https://www.question2answer.org/license.php">licensed under GPL v2+</a>的开源软件.您也可以在 <a href="https://github.com/q2a/question2answer">GitHub</a>上下载最新的源码.</p>
-		{% endcapture %}
-		{% include card-showcase.html icon="get_app" title="如何获得Q2A源码?" answer=answerText %}
+	{% capture answerText %}
+		<p><a href="https://www.question2answer.org/question2answer-latest.zip"><b>下载 Question2Answer</b></a>, 然后阅读 <a href="/install/">如何安装</a>.</p>
+		<p><a href="/install/versions/">最新的版本：1.8.5</a> 已经于July 15th, 2020发布。</p>
+		<p>Question2Answer是一款基于 <a href="https://www.question2answer.org/license.php">licensed under GPL v2+</a>的开源软件.您也可以在 <a href="https://github.com/q2a/question2answer">GitHub</a>上下载最新的源码.</p>
+	{% endcapture %}
+	{% include card-showcase.html icon="get_app" title="如何获得Q2A源码?" answer=answerText %}
 
-		{% capture answerText %}
-			<ul>
-				<li><a href="http://www.php.net/">PHP</a> 5.4 以上版本</li>
-				<li>需要安装<a href="https://en.wikipedia.org/wiki/MySQLi">MySQLi</a> 扩展.</li>
-				<li><a href="http://www.mysql.com/">MySQL</a> MySQL 5.0 以上版本.</li>
-			</ul>
-			<p class="text-small">强烈建议尽可能使用最新版本的PHP（7.x）和MySQL，因为它们会带来许多性能增强，并且Q2A会定期放弃对较早版本，不受支持的版本的支持。.</p>
-		{% endcapture %}
-		{% include card-showcase.html icon="dns" title="Q2A 基础要求?" answer=answerText %}
+	{% capture answerText %}
+		<ul>
+			<li><a href="http://www.php.net/">PHP</a> 5.4 以上版本</li>
+			<li>需要安装<a href="https://en.wikipedia.org/wiki/MySQLi">MySQLi</a> 扩展.</li>
+			<li><a href="http://www.mysql.com/">MySQL</a> MySQL 5.0 以上版本.</li>
+		</ul>
+		<p class="text-small">强烈建议尽可能使用最新版本的PHP（7.x）和MySQL，因为它们会带来许多性能增强，并且Q2A会定期放弃对较早版本，不受支持的版本的支持。.</p>
+	{% endcapture %}
+	{% include card-showcase.html icon="dns" title="Q2A 基础要求?" answer=answerText %}
 
-		{% capture answerText %}
-			<ul>
-				<li>Q2A需要5分钟（或更短的时间）来 <a href="/install/">安装</a>.</li>
-				<li>方便使用<a href="/themes/">CSS </a>来定制自己的主题.</li>
-				<li>支持 <a href="/translate/">翻译</a> 成各种语言.</li>
-				<li>自定义边栏，小部件，页面和链接.</li>
-				<li>SEO 功能，例如 <a href="https://www.sitemaps.org/">XML Sitemap</a> 和简洁的URL.</li>
-			</ul>
-		{% endcapture %}
-		{% include card-showcase.html icon="settings_input_component" title="易于安装" answer=answerText %}
+	{% capture answerText %}
+		<ul>
+			<li>Q2A需要5分钟（或更短的时间）来 <a href="/install/">安装</a>.</li>
+			<li>方便使用<a href="/themes/">CSS </a>来定制自己的主题.</li>
+			<li>支持 <a href="/translate/">翻译</a> 成各种语言.</li>
+			<li>自定义边栏，小部件，页面和链接.</li>
+			<li>SEO 功能，例如 <a href="https://www.sitemaps.org/">XML Sitemap</a> 和简洁的URL.</li>
+		</ul>
+	{% endcapture %}
+	{% include card-showcase.html icon="settings_input_component" title="易于安装" answer=answerText %}
 
-		{% capture answerText %}
-			<ul>
-				<li>快速集成的搜索引擎.</li>
-				<li>支持分类（最多4级）和/或tag标签.</li>
-				<li>支持投票，评论，相关问题和未解决的问题.</li>
-				<li>基于积分的信誉管理.</li>
-				<li>支持RSS订阅，电子邮件通知和个人消息信息流.</li>
-			</ul>
-		{% endcapture %}
-		{% include card-showcase.html icon="star" title="核心问答功能" answer=answerText %}
+	{% capture answerText %}
+		<ul>
+			<li>快速集成的搜索引擎.</li>
+			<li>支持分类（最多4级）和/或tag标签.</li>
+			<li>支持投票，评论，相关问题和未解决的问题.</li>
+			<li>基于积分的信誉管理.</li>
+			<li>支持RSS订阅，电子邮件通知和个人消息信息流.</li>
+		</ul>
+	{% endcapture %}
+	{% include card-showcase.html icon="star" title="核心问答功能" answer=answerText %}
 
-		{% capture answerText %}
-			<ul>
-				<li>支持创建专家，编辑，主持人和管理员组.</li>
-				<li>支持用户上传头像(或者使用 <a href="https://en.gravatar.com/">Gravatar</a>) 支持自定义字段.</li>
-				<li>支持私信和公共墙贴.</li>
-				<li>支持使用<a href="/addons/plugins/">插件</a>集成Facebook和其他第三方账号.</li>
-			</ul>
-		{% endcapture %}
-		{% include card-showcase.html icon="face" title="内置的用户帐户管理" answer=answerText %}
+	{% capture answerText %}
+		<ul>
+			<li>支持创建专家，编辑，主持人和管理员组.</li>
+			<li>支持用户上传头像(或者使用 <a href="https://en.gravatar.com/">Gravatar</a>) 支持自定义字段.</li>
+			<li>支持私信和公共墙贴.</li>
+			<li>支持使用<a href="/addons/plugins/">插件</a>集成Facebook和其他第三方账号.</li>
+		</ul>
+	{% endcapture %}
+	{% include card-showcase.html icon="face" title="内置的用户帐户管理" answer=answerText %}
 
-		{% capture answerText %}
-			<ul>
-				<li>开箱即用<a href="/install/wordpress/">WordPress</a> and Joomla 集成.</li>
-				<li>自定义和其他站点间的<a href="/install/single-sign-on/">单点登录</a>.</li>
-				<li>通过<a href="/plugins/">插件</a>深度集成和定制.</li>
-			</ul>
-		{% endcapture %}
-		{% include card-showcase.html icon="assignment_ind" title="集成现有网站" answer=answerText %}
+	{% capture answerText %}
+		<ul>
+			<li>开箱即用<a href="/install/wordpress/">WordPress</a> and Joomla 集成.</li>
+			<li>自定义和其他站点间的<a href="/install/single-sign-on/">单点登录</a>.</li>
+			<li>通过<a href="/plugins/">插件</a>深度集成和定制.</li>
+		</ul>
+	{% endcapture %}
+	{% include card-showcase.html icon="assignment_ind" title="集成现有网站" answer=answerText %}
 
-		{% capture answerText %}
-			<ul>
-				<li>PHP/MySQL <a href="/install/optimize/">可扩展</a>到数百万个用户和帖子.</li>
-				<li><a href="/install/security/">免受</a>XSS，CSRF和SQL注入攻击.</li>
-				<li>使用验证码，审核和/或举报来打击垃圾邮件.</li>
-			</ul>
-		{% endcapture %}
-		{% include card-showcase.html icon="policy" title="快速安全" answer=answerText %}
+	{% capture answerText %}
+		<ul>
+			<li>PHP/MySQL <a href="/install/optimize/">可扩展</a>到数百万个用户和帖子.</li>
+			<li><a href="/install/security/">免受</a>XSS，CSRF和SQL注入攻击.</li>
+			<li>使用验证码，审核和/或举报来打击垃圾邮件.</li>
+		</ul>
+	{% endcapture %}
+	{% include card-showcase.html icon="policy" title="快速安全" answer=answerText %}
 
-		{% capture answerText %}
-			<li>通过<a href="https://github.com/q2a/question2answer">Github</a>提交问题及代码</li>
-			<li>分享创建自己的<a href="/themes/">主题</a></li>
-			<li>分享创建自己的<a href="/plugins/">插件</a></li>
-			<li>分享创建自己的<a href="/translate/">国际化文件</a></li>
-		{% endcapture %}
-		{% include card-showcase.html icon="translate" title="如何帮助社区发展?" answer=answerText %}
-
+	{% capture answerText %}
+		<li>通过<a href="https://github.com/q2a/question2answer">Github</a>提交问题及代码</li>
+		<li>分享创建自己的<a href="/themes/">主题</a></li>
+		<li>分享创建自己的<a href="/plugins/">插件</a></li>
+		<li>分享创建自己的<a href="/translate/">国际化文件</a></li>
+	{% endcapture %}
+	{% include card-showcase.html icon="translate" title="如何帮助社区发展?" answer=answerText %}
 </div>
+
+<div style="text-align:center">{{ content }}<div>
