@@ -1,7 +1,7 @@
 ---
 layout: page
 menu: plugins
-title: "Question2Answer - Developers - Tutorial - Writing a Plugin"
+title: "插件开发-指南-Question2Answer完全开源免费的知识分享(问答)系统"
 ---
 
 # Tutorial: Writing a Question2Answer plugin

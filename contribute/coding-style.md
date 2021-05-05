@@ -1,7 +1,7 @@
 ---
 layout: page
 menu: contribute
-title: "Question2Answer Coding Style guidelines"
+title: "代码风格指南-Question2Answer完全开源免费的知识分享(问答)系统"
 ---
 
 # Question2Answer Coding Style guidelines

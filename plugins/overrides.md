@@ -1,7 +1,7 @@
 ---
 layout: page
 menu: plugins
-title: "Question2Answer - Developers - Overrides"
+title: "插件开发-函数重载-Question2Answer完全开源免费的知识分享(问答)系统"
 ---
 
 # Implementing plugin overrides

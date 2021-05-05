@@ -1,7 +1,7 @@
 ---
 layout: page
 menu: install
-title: "Question2Answer .htaccess file"
+title: "Question2Answer .htaccess 文件-Question2Answer完全开源免费的知识分享(问答)系统"
 ---
 
 # Why is my .htaccess file not OK?

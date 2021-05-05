@@ -1,7 +1,7 @@
 ---
 layout: page
 menu: code
-title: "Question2Answer - Developers - Q2A code structure"
+title: "代码结构-Question2Answer完全开源免费的知识分享(问答)系统"
 ---
 
 # Question2Answer application structure

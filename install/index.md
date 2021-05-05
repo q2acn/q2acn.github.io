@@ -1,7 +1,7 @@
 ---
 layout: page
 menu: install
-title: "Install Question2Answer"
+title: "安装Question2Answer-Question2Answer完全开源免费的知识分享(问答)系统"
 ---
 
 # Question2Answer takes 5 minutes <span class="highlight">(or less!)</span> to install.

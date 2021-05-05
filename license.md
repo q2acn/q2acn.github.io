@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Question2Answer - Versions"
+title: "License-Question2Answer免费开源的知识分享(问答)系统"
 ---
 
 # Question2Answer 完全开源并且免费

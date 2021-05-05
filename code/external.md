@@ -1,7 +1,7 @@
 ---
 layout: page
 menu: code
-title: "Question2Answer - Developers - External Access"
+title: "外部引入-Question2Answer完全开源免费的知识分享(问答)系统"
 ---
 
 # Accessing Question2Answer from external PHP code

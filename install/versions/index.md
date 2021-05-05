@@ -1,7 +1,7 @@
 ---
 layout: page
 menu: install
-title: "Question2Answer - Version History"
+title: "版本记录-Question2Answer完全开源免费的知识分享(问答)系统"
 ---
 
 # Version History

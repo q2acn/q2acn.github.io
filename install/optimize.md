@@ -1,7 +1,7 @@
 ---
 layout: page
 menu: install
-title: "Question2Answer - Optimization"
+title: "性能优化-Question2Answer完全开源免费的知识分享(问答)系统"
 ---
 
 # Optimizing the performance of Question2Answer

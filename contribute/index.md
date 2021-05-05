@@ -1,7 +1,7 @@
 ---
 layout: page
 menu: contribute
-title: "Contribute"
+title: "贡献-Question2Answer完全开源免费的知识分享(问答)系统"
 ---
 
 # Contributing to Question2Answer

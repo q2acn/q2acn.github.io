@@ -1,7 +1,7 @@
 ---
 layout: page
 menu: install
-title: "Question2Answer - Single Sign-On Integration"
+title: "单点登录集成-Question2Answer完全开源免费的知识分享(问答)系统"
 ---
 
 # Installing Question2Answer with single sign-on

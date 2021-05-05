@@ -1,7 +1,7 @@
 ---
 layout: page
 menu: install
-title: "Upgrading Question2Answer"
+title: "升级Question2Answer-Question2Answer完全开源免费的知识分享(问答)系统"
 ---
 
 # Upgrading to the latest version of Question2Answer

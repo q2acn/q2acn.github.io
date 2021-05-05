@@ -1,12 +1,11 @@
 ---
 layout: page
-title: "Question2Answer - 服务支持"
+title: "服务支持-Question2Answer免费开源的知识分享(问答)系统"
 ---
 
 # Question2Answer 服务提供者
 
-The following websites and providers specialize in Question2Answer services and information. This information is provided as a free service to the community, and the listings are not endorsed. If you wish to be included here, please [contact us](http://www.question2answer.org/feedback.php).
-以下网站和提供商专门研究Question2Answer的服务和信息。此信息是作为对社区的免费服务提供的，并且不认可列表。如果您希望被包括在这里，请与我们联系。
+以下网站和提供商专门研究Question2Answer的服务和支持。此信息是作为对社区的免费服务提供的，并非由开发人员完全支持。如果您希望被包括在这里，[请与我们联系](http://www.question2answer.org/feedback.php)。
 
 ## 社区支持
 
@@ -36,7 +35,6 @@ The following websites and providers specialize in Question2Answer services and 
 
 ## 国际站点
 
-- [Question2Answer Farsi](http://question2answer-farsi.com/) --- Persian information for Q2A users in Iran and beyond.
-Question2Answer Farsi ---为伊朗及其他地区的Q2A用户提供的波斯语信息。
+- [Question2Answer 国际站](http://question2answer.org/) 
 
-[QA]: https://www.question2answer.org/qa/
+- [QA问答社区]( https://www.question2answer.org/qa/)

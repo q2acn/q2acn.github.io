@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Question2Answer - Developers - Translation / Localization"
+title: "翻译/本地化-Question2Answer完全开源免费的知识分享(问答)系统"
 ---
 
 # Translating Question2Answer into another language

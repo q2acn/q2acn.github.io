@@ -1,7 +1,7 @@
 ---
 layout: page
 menu: addons
-title: "Question2Answer Add-ons - Plugins"
+title: "插件-Question2Answer完全开源免费的知识分享(问答)系统"
 ---
 
 # Question2Answer Plugins

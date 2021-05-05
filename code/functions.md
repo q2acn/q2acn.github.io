@@ -1,7 +1,7 @@
 ---
 layout: page
 menu: code
-title: "Question2Answer - Developers - Selected Functions"
+title: "函数介绍-Question2Answer完全开源免费的知识分享(问答)系统"
 ---
 
 # Selected functions in Question2Answer

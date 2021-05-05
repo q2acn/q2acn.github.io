@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Question2Answer - Developers - Themes"
+title: "主题开发-Question2Answer完全开源免费的知识分享(问答)系统"
 ---
 
 # Creating themes for Question2Answer
