@@ -1,6 +1,6 @@
 ---
-layout: 首页
-title: "Question2Answer 开源知识（问答）分享系统使用说明文档"
+layout: home
+title: "Question2Answer 开源知识分享（问答）系统使用说明文档"
 ---
 
 欢迎参阅Question2Answer开源知识（问答）分享系统使用说明文档! 
