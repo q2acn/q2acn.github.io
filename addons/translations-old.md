@@ -1,12 +1,12 @@
 ---
 layout: page
 menu: addons
-title: "Question2Answer - old language packs"
+title: "国际化文件-Question2Answer完全开源免费的知识分享(问答)系统"
 ---
 
-# Question2Answer old language files
+# Question2Answer 旧版本本地化语言文件
 
-This page lists language files for older version of Q2A.
+当前页面列出了旧版本的本地化语言文件
 
 ### Q2A 1.5
 

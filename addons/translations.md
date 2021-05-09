@@ -6,7 +6,7 @@ title: "国际化文件-Question2Answer完全开源免费的知识分享(问答)
 
 # Question2Answer Language Files
 
-The language files below are marked by the corresponding Question2Answer version. You can safely install a language file from a different version, and [update it with the missing phrases](/translate/). To install a language, place its directory (such as `fr` or `ru`) in Q2A's `qa-lang` directory, then open the General section of the Admin panel and choose the language from the menu provided.
+下面的语言文件标记着相应的Question2Answer版本，您可以直接使用，或者从其他已经安装过的版本中更新添加缺失的部分。要安装语言，请将其目录（例如fr或ru）放置在Q2A的‘qa-lang’目录中，然后在“管理”面板的“常规”页面的语言列表中，选择相应语言。
 
 ## Q2A 1.8
 
@@ -89,6 +89,6 @@ The language files below are marked by the corresponding Question2Answer version
 - [Q2A 1.6.x - Ukrainian (Українська)](http://sourceforge.net/projects/q2a-lang-uk/) by Andriy Bokiy.
 - [Q2A 1.6.x - Vietnamese (Tiếng Việt)](http://annguyenco.com/hoidap/vi-qa-lang.zip) by [AnNguyenCo](http://www.annguyenco.com). Also: [Updated version](https://www.dropbox.com/s/z1gzuow0rz4rkyu/vi.zip?dl=0) by [NTHQ Team](https://namgivu.wordpress.com/2015/01/09/vietnamese-translation-for-question2answer-website/).
 
-_View [older language files](/addons/translations-old/)._
+_查看 [旧版本语言文件](/addons/translations-old/)._
 
-If your language is not listed, or is out-of-date, you can [create or update language files](/translate/) using a text editor.
+如果您的语言未出现在本列表或者对应的QA版本已经过时，您可以使用文本编辑器来，创建更新语言文件.[点此查看如何创建本地化语言文件](/translate/)

@@ -1,0 +1,92 @@
+<NotepadPlus>
+    <Project name="Q2A">
+        <Folder name="addons">
+            <File name="addons\clients.md" />
+            <File name="addons\index.md" />
+            <File name="addons\plugins.md" />
+            <File name="addons\themes.md" />
+            <File name="addons\translations-old.md" />
+            <File name="addons\translations.md" />
+        </Folder>
+        <Folder name="code">
+            <File name="code\external.md" />
+            <File name="code\functions.md" />
+            <File name="code\structure.md" />
+        </Folder>
+        <Folder name="contribute">
+            <File name="contribute\coding-style.md" />
+            <File name="contribute\docs.md" />
+            <File name="contribute\index.md" />
+            <File name="contribute\unit-tests.md" />
+        </Folder>
+        <Folder name="css">
+            <File name="css\styles2020.css" />
+        </Folder>
+        <Folder name="images">
+            <File name="images\question2answer-logo-350x40.png" />
+            <File name="images\question2answer-logo-white-350x40.png" />
+            <File name="images\shadow.png" />
+            <File name="images\wave-combo.svg" />
+        </Folder>
+        <Folder name="install">
+            <Folder name="versions">
+                <File name="install\versions\1.md" />
+                <File name="install\versions\index.md" />
+            </Folder>
+            <File name="install\htaccess.md" />
+            <File name="install\index.md" />
+            <File name="install\optimize.md" />
+            <File name="install\security.md" />
+            <File name="install\single-sign-on.md" />
+            <File name="install\upgrade.md" />
+            <File name="install\wordpress.md" />
+        </Folder>
+        <Folder name="plugins">
+            <File name="plugins\index.md" />
+            <File name="plugins\layers.md" />
+            <File name="plugins\modules-captcha.md" />
+            <File name="plugins\modules-editor.md" />
+            <File name="plugins\modules-event.md" />
+            <File name="plugins\modules-filter.md" />
+            <File name="plugins\modules-login.md" />
+            <File name="plugins\modules-page.md" />
+            <File name="plugins\modules-process.md" />
+            <File name="plugins\modules-search.md" />
+            <File name="plugins\modules-viewer.md" />
+            <File name="plugins\modules-widget.md" />
+            <File name="plugins\modules.md" />
+            <File name="plugins\overrides.md" />
+            <File name="plugins\tutorial.md" />
+        </Folder>
+        <Folder name="themes">
+            <File name="themes\index.md" />
+        </Folder>
+        <Folder name="translate">
+            <File name="translate\index.md" />
+        </Folder>
+        <Folder name="_includes">
+            <File name="_includes\analytics.html" />
+            <File name="_includes\card-showcase.html" />
+            <File name="_includes\footer.html" />
+            <File name="_includes\header.html" />
+            <File name="_includes\nav-sub.html" />
+        </Folder>
+        <Folder name="_layouts">
+            <File name="_layouts\default.html" />
+            <File name="_layouts\home.html" />
+            <File name="_layouts\page.html" />
+        </Folder>
+        <File name=".gitignore" />
+        <File name=".travis.yml" />
+        <File name="apple-touch-icon.png" />
+        <File name="CNAME" />
+        <File name="favicon.ico" />
+        <File name="Gemfile" />
+        <File name="Gemfile.lock" />
+        <File name="index.md" />
+        <File name="license.md" />
+        <File name="README.md" />
+        <File name="services.md" />
+        <File name="_config.yml" />
+    </Project>
+</NotepadPlus>
