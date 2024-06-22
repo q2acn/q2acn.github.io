@@ -30,8 +30,9 @@ title: "主题-Question2Answer完全开源免费的知识分享(问答)系统"
 - [TwentyTwelve](https://github.com/q2a-projects/Q2A-TwentyTwelve) by [Towhidn](https://github.com/q2a-projects). 基于WordPress默认主题TwentyTwelve.
 - [Twitter Bootstrap](https://github.com/harshjv/q2a-bootstrap) by [Harsh J. Vakharia](http://twitter.com/harshjv). 仅适用于Q2A 1.5.3，因为它大量修改了内核且需要与 [Bootstrap](https://github.com/twitter/bootstrap). 一起使用
 - [付费][Mayro Pro](https://github.com/MominRaza/assets/blob/main/MayroPro.md) (具有深色模式，支持RTL和PWA的Google Material Design主题) by [Momin Raza](https://github.com/MominRaza).
-- [付费][AVEN Theme](https://heliochun.github.io/shop/aven/) by [Shop](https://heliochun.github.io/shop/). AVEN是针对开源Question2Answer平台的经过精心考虑的Material Design主题.
-- [付费][Muffin Theme](https://heliochun.github.io/shop/muffin/) by [Shop](https://heliochun.github.io/shop/). Muffin是开放源代码Question2Answer平台经过精心考虑的Material Design主题.
-- [付费][Frapuchino Theme](https://heliochun.github.io/shop/frapuchino/) by [Shop](https://heliochun.github.io/shop/). Frapuchino是针对开源Question2Answer平台的经过精心考虑的材料设计主题.
+- [付费][POLARIS Theme](https://rxchun.github.io/shop/polaris/) by [Chun (春)](https://www.question2answer.org/qa/user/gold-developer). Polaris 是一款经过深思熟虑的 Material Design 主题，在 Google PageSpeed 上的性能、结构、最佳实践和 SEO 排名全部 100%。移动应用程序主题，带暗黑模式切换。RTL 就绪并支[持插件](https://www.question2answer.org/qa/102051/premium-theme-polaris-current-v2-14)。
+- [付费][AVEN Theme](https://rxchun.github.io/shop/aven/) by [Chun (春)](https://www.question2answer.org/qa/user/gold-developer). 变形器。带有缩略图切换的博客类型主题。RTL 就绪。
+- [付费][Frapuchino Theme](https://rxchun.github.io/shop/frapuchino/) by [Chun (春)](https://www.question2answer.org/qa/user/gold-developer). 变形器。带有缩略图切换的博客类型主题。RTL 就绪。
+- [付费][Legacy Theme](https://rxchun.github.io/shop/legacy/) by [Chun (春)](https://www.question2answer.org/qa/user/gold-developer). 快速、简单、Material Design 主题。RTL 就绪。
 
 您也可以通过[修改CSS文件创建自己的主题](/themes/) ，或者通过[修改HTML代码创建主题](/themes/#advanced).
